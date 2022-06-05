@@ -1,0 +1,13 @@
+remove mod4 = Control_L
+keycode 37 = Mode_switch
+keycode 133 = Control_L
+add control = Control_L
+
+keycode 43 = h H Left Left
+keycode 44 = j J Down Down
+keycode 45 = k K Up Up
+keycode 46 = l L Right Right
+keycode 47 = semicolon colon Return 
+keycode 54 = c C Escape C
+keycode 57 = n N BackSpace
+keycode 58 = m M BackSpace
